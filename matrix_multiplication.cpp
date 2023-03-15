@@ -5,7 +5,7 @@
 
 using namespace std;
 
-const int N = 100; // size of the matrices
+const int N = 50; // size of the matrices
 
 // generates a random N x N matrix and stores it in the provided array
 void generate_random_matrix(int matrix[N][N])
